@@ -5,13 +5,8 @@ const Home = () => (
   <div>
     <h1></h1>
 
-    <h3>Cześć!</h3
-  <head>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
-</head>
+    <h3>Cześć!</h>
 
-<body>
 <div class="Iam">
 
 <p>This is</p>
@@ -26,7 +21,6 @@ const Home = () => (
 </b>
 
 </div>
-</body>
 
     <style jsx>{`
       :global(html,body) {
