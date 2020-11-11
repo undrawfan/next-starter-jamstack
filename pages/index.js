@@ -5,8 +5,8 @@ const Home = () => (
   <div>
     <h1></h1>
 
-    <h3>Cześć!</h>
-
+    <h3>Cześć!</h3>
+<p>hi</p>
 <div class="Iam">
 
 <p>This is</p>
